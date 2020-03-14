@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51335" started-at="2019-01-15T12:40:20Z" finished-at="2019-01-15T12:41:12Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="23281" started-at="2019-01-15T12:40:20Z" finished-at="2019-01-15T12:40:44Z">
+      <class name="Package1.TestClass">
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Package1.TestClass@4cc0edeb]" name="f" duration-ms="23245" started-at="2019-01-15T12:40:20Z" finished-at="2019-01-15T12:40:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Package1.TestClass -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="51335" started-at="2019-01-15T12:40:20Z" finished-at="2019-01-15T12:41:12Z">
+      <class name="Package1.TestClass">
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Package1.TestClass@1e88b3c]" name="f" duration-ms="51293" started-at="2019-01-15T12:40:20Z" finished-at="2019-01-15T12:41:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Package1.TestClass -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

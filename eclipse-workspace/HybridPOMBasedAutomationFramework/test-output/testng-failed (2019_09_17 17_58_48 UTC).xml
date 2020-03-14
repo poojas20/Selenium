@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="AppURL" value="http://opensource.demo.orangehrmlive.com/index.php"/>
+  <listeners>
+    <listener class-name="ListnerFactory.SuiteListner"/>
+    <listener class-name="ListnerFactory.TestListner"/>
+    <listener class-name="ListnerFactory.ResultListner"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="BrowserName" value="Chrome"/>
+    <classes>
+      <class name="LoginTest.NewTest">
+        <methods>
+          <include name="LoginTest"/>
+        </methods>
+      </class> <!-- LoginTest.NewTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

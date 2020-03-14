@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="85810" started-at="2018-12-22T05:49:30Z" finished-at="2018-12-22T05:50:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="85810" started-at="2018-12-22T05:49:30Z" finished-at="2018-12-22T05:50:56Z">
+      <class name="Package1.TestClass1">
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Package1.TestClass1@7823a2f9]" name="f" duration-ms="14528" started-at="2018-12-22T05:49:30Z" finished-at="2018-12-22T05:49:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Package1.TestClass1 -->
+      <class name="Package2.TestClass2">
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Package2.TestClass2@5c7fa833]" name="f" duration-ms="71265" started-at="2018-12-22T05:49:44Z" finished-at="2018-12-22T05:50:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://newtours.demoaut.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Package2.TestClass2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

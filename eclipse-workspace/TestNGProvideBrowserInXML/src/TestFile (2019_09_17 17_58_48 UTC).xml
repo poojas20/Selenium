@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests">
+  <test name="Test1">
+   <parameter name="URL" value="https://opensource-demo.orangehrmlive.com/"/>
+  <parameter name="UserName" value="admin"/>
+  <parameter name="Pass" value="admin123"/>
+  <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="Package1.TestClass"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Test2">
+   <parameter name="URL" value="https://opensource-demo.orangehrmlive.com/"/>
+  <parameter name="UserName" value="admin"/>
+  <parameter name="Pass" value="admin123"/>
+  <parameter name="Browser" value="Firefox"/>
+    <classes>
+      <class name="Package1.TestClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

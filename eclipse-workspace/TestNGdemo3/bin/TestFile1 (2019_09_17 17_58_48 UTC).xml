@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="Package1.TestClass1">
+      <methods>
+      <exclude name="f4"/>
+      </methods>
+      </class>
+    </classes>
+    </test>
+    
+    <test name="test1">
+     <classes>
+      <class name="Package1.TestClass2">
+      <methods>
+      <include name="f4"/>
+      </methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

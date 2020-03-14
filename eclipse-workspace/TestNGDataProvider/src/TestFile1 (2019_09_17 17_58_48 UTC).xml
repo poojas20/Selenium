@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <parameter name="URL_MER" value="http://newtours.demoaut.com/"/>
+  <parameter name="URL_ORHRM" value="https://opensource-demo.orangehrmlive.com/"/>
+  <parameter name="username_ORHRM" value="admin"/>
+  <parameter name="password_ORHRM" value="admin123"/>
+  <parameter name="username_MER" value="mercury"/>
+  <parameter name="password_MER" value="mercury"/>
+    <classes>
+      <class name="Package1.TestClass1"/>
+      <class name="Package2.TestClass2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=3classApproachRdBtn/C:\/Program Files\/Java\/jdk1.8.0_171\/jre\/lib\/rt.jar&lt;java.lang(InterruptedException.class[InterruptedException" modifiers="33" timestamp="1530419494620"/>
+<typeInfo handle="=htmlUnitDriver/C:\/Program Files\/Selenium\/htmlunit-driver-2.33.3-jar-with-dependencies.jar&lt;org.apache.http.auth(UsernamePasswordCredentials.class[UsernamePasswordCredentials" modifiers="33" timestamp="1544244681723"/>
+<typeInfo handle="=3classApproachRdBtn/C:\/Program Files\/Java\/jdk1.8.0_171\/jre\/lib\/ext\/jfxrt.jar&lt;javafx.scene.control(ComboBox.class[ComboBox" modifiers="33" timestamp="1530419481210"/>
+<typeInfo handle="=htmlUnitDriver/C:\/Program Files\/Selenium\/htmlunit-driver-2.33.3-jar-with-dependencies.jar&lt;org.openqa.selenium.support(How.class[How" modifiers="17441" timestamp="1544244681723"/>
+<typeInfo handle="=MavenProject/C:\/Users\/Asus\/.m2\/repository\/org\/seleniumhq\/selenium\/selenium-support\/3.141.59\/selenium-support-3.141.59.jar&lt;org.openqa.selenium.support(How.class[How" modifiers="17441" timestamp="1547275369380"/>
+<typeInfo handle="=Cucumber/C:\/Program Files\/Selenium\/Cucumber\/mockito-all-2.0.2-beta.jar&lt;org.mockito.exceptions(Reporter.class[Reporter" modifiers="33" timestamp="1546147715500"/>
+<typeInfo handle="=Cucumber/C:\/Program Files\/Selenium\/Cucumber\/junit-4.12.jar&lt;junit.framework(Assert.class[Assert" modifiers="1048609" timestamp="1546147706691"/>
+<typeInfo handle="=3classApproachRdBtn/C:\/Program Files\/Java\/jdk1.8.0_171\/jre\/lib\/rt.jar&lt;java.io(FileWriter.class[FileWriter" modifiers="33" timestamp="1530419494620"/>
+<typeInfo handle="=HybridPOMBasedAutomationFramework/src\/Driver&lt;DriverFactory{DriverInstance.java[DriverInstance" modifiers="1" timestamp="1521478874000"/>
+<typeInfo handle="=HybridPOMBasedAutomationFramework/C:\/Users\/Asus\/.p2\/pool\/plugins\/org.testng_6.14.2.r201802161450.jar&lt;org.testng(Assert.class[Assert" modifiers="33" timestamp="1544247196585"/>
+<typeInfo handle="=MavenProject/C:\/Users\/Asus\/.m2\/repository\/org\/seleniumhq\/selenium\/selenium-api\/3.141.59\/selenium-api-3.141.59.jar&lt;org.openqa.selenium(By.class[By" modifiers="1057" timestamp="1547275359162"/>
+<typeInfo handle="=htmlUnitDriver/C:\/Program Files\/Selenium\/selenium-server-standalone-3.141.59.jar&lt;org.openqa.selenium.support(FindBy.class[FindBy" modifiers="9729" timestamp="1544243282663"/>
+<typeInfo handle="=htmlUnitDriver/C:\/Program Files\/Selenium\/htmlunit-driver-2.33.3-jar-with-dependencies.jar&lt;org.openqa.selenium.support(FindAll$FindByBuilder.class[FindByBuilder" modifiers="9" timestamp="1544244681723"/>
+<typeInfo handle="=htmlUnitDriver/C:\/Program Files\/Selenium\/selenium-server-standalone-3.141.59.jar&lt;org.openqa.selenium.internal(FindsByClassName.class[FindsByClassName" modifiers="1050113" timestamp="1544243282663"/>
+<typeInfo handle="=3classApproachRdBtn/C:\/Program Files\/Java\/jdk1.8.0_171\/jre\/lib\/rt.jar&lt;java.util(Properties.class[Properties" modifiers="33" timestamp="1530419494620"/>
+<typeInfo handle="=htmlUnitDriver/C:\/Program Files\/Selenium\/htmlunit-driver-2.33.3-jar-with-dependencies.jar&lt;org.openqa.selenium.support.ui(Select.class[Select" modifiers="33" timestamp="1544244681723"/>
+<typeInfo handle="=htmlUnitDriver/C:\/Program Files\/Selenium\/htmlunit-driver-2.33.3-jar-with-dependencies.jar&lt;org.apache.bcel.generic(Select.class[Select" modifiers="1057" timestamp="1544244681723"/>
+<typeInfo handle="=htmlUnitDriver/C:\/Program Files\/Selenium\/selenium-server-standalone-3.141.59.jar&lt;org.openqa.selenium.support.ui(Select.class[Select" modifiers="33" timestamp="1544243282663"/>
+<typeInfo handle="=3classApproachRdBtn/C:\/Program Files\/Java\/jdk1.8.0_171\/jre\/lib\/rt.jar&lt;java.io(FileInputStream.class[FileInputStream" modifiers="33" timestamp="1530419494620"/>
+<typeInfo handle="=HybridPOMBasedAutomationFramework/C:\/Program Files\/Selenium\/jxl-2.6.12.jar\/jxl-2.6.12.jar&lt;jxl(Sheet.class[Sheet" modifiers="1537" timestamp="1350932972000"/>
+<typeInfo handle="=HybridPOMBasedAutomationFramework/C:\/Program Files\/Selenium\/jxl-2.6.12.jar\/jxl-2.6.12.jar&lt;jxl(Workbook.class[Workbook" modifiers="1057" timestamp="1350932972000"/>
+</typeInfoHistroy>

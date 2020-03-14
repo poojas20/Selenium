@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Login test is Passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54669" started-at="2019-03-24T18:37:36Z" finished-at="2019-03-24T18:38:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54669" started-at="2019-03-24T18:37:36Z" finished-at="2019-03-24T18:38:31Z">
+      <class name="LoginTest.NewTest">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:LoginTest.NewTest@68be2bc2]" name="LoginTest" duration-ms="21616" started-at="2019-03-24T18:38:09Z" finished-at="2019-03-24T18:38:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login test is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- LoginTest.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
